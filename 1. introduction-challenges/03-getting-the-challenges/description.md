@@ -58,7 +58,7 @@ In this challenge we will make sure that you have access to the challenges on yo
    ```bash
    git clone <copied-url>
    ```
-10. Now it is time to clone the challenges themselves. Go to [this link](https://github.com/ucll-introductieproject/challenges-23-24).
+10. Now it is time to clone the challenges themselves. Go to [this link](https://github.com/ucll-introductieproject/challenges-ao-23-24).
 11. Click on `Code > HTTPS` and copy the link. See the screenshot below for a visual indication.
 
 <a href="./cloning-the-challenges.png" target="_blank">
